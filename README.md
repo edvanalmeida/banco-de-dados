@@ -5,7 +5,7 @@
 Você já pensou em ser um DBA mas não tem ideia do que fazer ou por onde começar? 
 Esta lista pretende resolver este problema de uma vez por todas! 👍
 
-Como esta lista vai me ajudar:
+Como essa lista pode te ajudar:
 
 - ótimo para melhorar seus conhecimentos em banco de dados :muscle:;
 - ótimo para experimentar novas tecnologias 🆕;
