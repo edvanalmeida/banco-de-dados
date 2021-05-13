@@ -29,9 +29,9 @@ necessário para completá-los.
 
 | Nível | Perfil do desenvolvedor                                                                                                                                             |
 | :--:  | --------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|  1    | Estágios iniciais de sua jornada de aprendizado. Aqueles que normalmente se concentram na criação e execução de query.       |
-|  2    | Intermediário de aprendizado e experiência. Eles se sentem confortáveis com instruções SQL como DMLs,DDLs, DCLs, TCLs.                 |
-|  3    | Desenvolvedores que têm todos os itens acima e estão aprendendo técnicas mais avançadas, como implementação de aplicativos de back-end e serviços de banco de dados.|
+|  1    | Estágios iniciais de sua jornada de aprendizado. Aqueles que normalmente se concentram na criação e execução de query.                        |
+|  2    | Intermediário de aprendizado e experiência. Eles se sentem confortáveis com instruções SQL como DMLs,DDLs, DCLs, TCLs, Backups, e Replication |
+|  3    | Para quem têm todos os itens acima e estão aprendendo técnicas mais avançadas, Perfornance Tuning em banco dados                              |
 
 🌟 - Novo Projeto
 
